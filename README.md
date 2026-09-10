@@ -21,15 +21,12 @@ Stores student information using object attributes
 Formats marks to one decimal place
 Simple and beginner-friendly implementation
 Requires no external libraries
-📥 Installation
-1. Clone the repository
-git clone https://github.com/your-username/your-repository.git
+
 2. Navigate to the project directory
 cd your-repository
 3. Run the program
 python structure.py
 
-Replace your-username/your-repository with your actual GitHub repository URL.
 
 📋 Requirements
 Python 3.x
