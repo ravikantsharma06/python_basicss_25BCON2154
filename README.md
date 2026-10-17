@@ -61,10 +61,7 @@ Output
 Name: Ravi
 Roll: 101
 Marks: 87.5
-📁 Project Structure
-.
-├── structure.py
-└── README.md
+
 📄 License
 
 This project is licensed under the MIT License.
